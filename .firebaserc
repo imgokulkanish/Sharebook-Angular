@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "sharebook-8d7cf": {
+      "hosting": {
+        "social-media-wall": [
+          "sharebook-8d7cf"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "sharebook-8d7cf"
+  }
+}

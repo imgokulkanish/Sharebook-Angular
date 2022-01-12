@@ -100,6 +100,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "social-media-wall:build:production",
+            "firebaseProject": "sharebook-8d7cf",
+            "firebaseHostingSite": "sharebook-8d7cf"
+          }
         }
       }
     }
