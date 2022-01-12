@@ -17,6 +17,12 @@
       "username": "gkanish",
       "password": "deepan",
       "id": 3
+    },
+    {
+      "email": "balaji@gmail.com",
+      "username": "balaji",
+      "password": "balaji1",
+      "id": 4
     }
   ],
   "posts": []

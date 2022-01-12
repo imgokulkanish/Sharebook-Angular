@@ -6,7 +6,7 @@ import { Injectable } from '@angular/core';
 })
 export class UserService {
   // http: any;
-
+  user:any;
   constructor(private http:HttpClient) { }
 
   public createNewUser(dataObj:any){
